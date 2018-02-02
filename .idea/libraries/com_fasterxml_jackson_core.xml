@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="com.fasterxml.jackson.core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/com.fasterxml.jackson.core.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/com.fasterxml.jackson.databind.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/com.fasterxml.jackson.annotations.jar!/" />
+      <root url="file://$USER_HOME$/Downloads" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" type="SOURCES" />
+  </library>
+</component>

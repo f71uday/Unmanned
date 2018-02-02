@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="unirest-java-1.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/unirest-java-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/unirest-java-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
